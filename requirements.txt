@@ -1,0 +1,6 @@
+# Datos del sistema
+psutil>=5.9
+
+# La interfaz usa PyGObject, GTK 4 y libadwaita del sistema.
+# En Ubuntu / Debian instala:
+#   sudo apt install python3-gi python3-psutil gir1.2-gtk-4.0 gir1.2-adw-1

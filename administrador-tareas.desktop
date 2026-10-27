@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Administrador de tareas
+GenericName=Monitor del sistema
+Comment=Supervisa procesos, rendimiento, inicio, usuarios y servicios
+Exec=administrador-tareas
+Icon=administrador-tareas
+Terminal=false
+Categories=System;Monitor;
+Keywords=procesos;rendimiento;monitor;tareas;system;monitor;
+StartupNotify=true
+StartupWMClass=io.github.administrador_tareas.Linux
